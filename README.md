@@ -7,3 +7,4 @@ This repository contains examples of the five SOLID design principles of object-
 - Liskov Substitution Principle
 - Interface Segregation Principle
 - Dependency Inversion Principle
+
